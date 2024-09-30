@@ -33,7 +33,7 @@ Navigate to your project directory and install the necessary npm packages:
 
 ```bash
   npm install 
-  cd my-project
+  npm run dev
 ```
 
 ## Project Scope
